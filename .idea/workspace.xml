@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adac1fe8-ccb5-4b6b-b898-87112c43171d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sec_sql@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sec_sql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sec_sql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sec_sql: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sec_sql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sec_sql: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="userinfo: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\ALL\java-spring\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\maven\lib\maven3\maven-repo" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sDHQb8kN0l30DjIdCZ1RaGl5ZB" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zpchcbd.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ALL\javaidea\spring-study\spring-study-09-mybatis\src\main" />
+      <recent name="C:\Users\dell\Desktop\ALL\javaidea\spring-study\spring-study07-proxy\src\main\java\com\zpchcbd" />
+      <recent name="C:\Users\dell\Desktop\ALL\javaidea\spring-study\spring-study07-proxy\src\main\java\com.zpchcbd" />
+      <recent name="C:\Users\dell\Desktop\ALL\javaidea\spring-study\spring-study06-appconfig\src\main\java\com\zpchcbd\test3" />
+      <recent name="C:\Users\dell\Desktop\ALL\javaidea\spring-study" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zpchcbd.mapper" />
+      <recent name="com.zpchcbd" />
+      <recent name="com.zpchcbd.pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ALL\javaidea\spring-study\spring-study-09-mybatis\src\main\resources" />
+      <recent name="D:\ALL\javaidea\spring-study\spring-study-09-mybatis\src\main\java" />
+      <recent name="C:\Users\dell\Desktop\ALL\javaidea\spring-study\spring-study07-proxy\src\main\java\com\zpchcbd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CodeTest.test01">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.Test" />
+      <module name="spring-study08-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.Test" />
+      <module name="spring-study07-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.Test" />
+      <module name="spring-study07-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.Test" />
+      <module name="spring-study06-appconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.Test" />
+      <module name="spring-study04-di_Injection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.Test" />
+      <module name="spring-study05-autowired" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-study04-c-p-namespace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zpchcbd" />
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.CodeTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MBT.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-study-09-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zpchcbd" />
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.MBT" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MBT.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-study-09-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpchcbd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zpchcbd" />
+      <option name="MAIN_CLASS_NAME" value="com.zpchcbd.MBT" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CodeTest.test01" />
+        <item itemvalue="JUnit.MBT.test02" />
+        <item itemvalue="JUnit.MBT.test01" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adac1fe8-ccb5-4b6b-b898-87112c43171d" name="Default Changelist" comment="" />
+      <created>1620400224658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620400224658</updated>
+      <workItem from="1620400228420" duration="2162000" />
+      <workItem from="1620459837915" duration="9538000" />
+      <workItem from="1621137757027" duration="10479000" />
+      <workItem from="1621346477711" duration="503000" />
+      <workItem from="1621347021915" duration="3380000" />
+      <workItem from="1621428468422" duration="677000" />
+      <workItem from="1621515606740" duration="41000" />
+      <workItem from="1621611636627" duration="3648000" />
+      <workItem from="1621653631724" duration="16573000" />
+      <workItem from="1621676175445" duration="7880000" />
+      <workItem from="1621764206521" duration="1701000" />
+      <workItem from="1621785122552" duration="582000" />
+      <workItem from="1621860678969" duration="7542000" />
+      <workItem from="1621958087061" duration="621000" />
+      <workItem from="1621961123305" duration="13000" />
+      <workItem from="1635087780363" duration="6802000" />
+      <workItem from="1635156782881" duration="2102000" />
+      <workItem from="1635159037603" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1635157912603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1635157912603" />
+    <state x="669" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635096207955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1635096207955" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1635158258574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1635158258574" />
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1635087802098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635087802098" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1635158329163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1635158329163" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1635158329162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1635158329162" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1635158329162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1635158329162" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1635158329163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1635158329163" />
+    <state x="334" y="129" key="new project wizard" timestamp="1635096163385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1635096163385" />
+    <state x="612" y="203" key="spring file set editor" timestamp="1635159079401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="203" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1635159079401" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-study06-appconfig/src/main/java/com/zpchcbd/Test.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-study06-appconfig/src/main/java/com/zpchcbd/Test.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java</url>
+          <line>718</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java</url>
+          <line>418</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

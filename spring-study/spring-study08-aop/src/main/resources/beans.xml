@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <bean id="afterlog" class="com.zpchcbd.log.AfterLog"/>
+    <bean id="beforeLog" class="com.zpchcbd.log.BeforeLog"/>
+    <bean id="UserService" class="com.zpchcbd.service.UserServiceImpl"/>
+
+    <!-- execution(* com.sharpcj.aopdemo.test1.*(..)) -->
+
+<!--    <aop:config>-->
+<!--            &lt;!&ndash;切入点&ndash;&gt;-->
+<!--        <aop:pointcut id="pointcut" expression="execution(* com.zpchcbd.service.UserServiceImpl.*(..))"/>-->
+<!--            &lt;!&ndash;环绕增加&ndash;&gt;-->
+<!--        <aop:advisor advice-ref="beforeLog" pointcut-ref="pointcut"/>-->
+<!--        <aop:advisor advice-ref="afterlog" pointcut-ref="pointcut"/>-->
+<!--    </aop:config>-->
+
+
+<!--    <bean id="diy" class="com.zpchcbd.log.DiyLog"/>-->
+<!--    <aop:config>-->
+<!--        &lt;!&ndash;自定义切面 ref为你要自定义的切面类&ndash;&gt;-->
+<!--        <aop:aspect ref="diy">-->
+<!--            &lt;!&ndash;切入点的位置，这里则是UserServiceImpl类的方法&ndash;&gt;-->
+<!--            <aop:pointcut id="pointcut" expression="execution(* com.zpchcbd.service.UserServiceImpl.*(..))"/>-->
+<!--            <aop:before method="before" pointcut-ref="pointcut"/>-->
+<!--            <aop:after method="before" pointcut-ref="pointcut"/>-->
+<!--        </aop:aspect>-->
+<!--    </aop:config>-->
+
+    <aop:aspectj-autoproxy expose-proxy="false"/>
+    <bean id="aspectlog" class="com.zpchcbd.log.AspectLog" />
+
+
+</beans>

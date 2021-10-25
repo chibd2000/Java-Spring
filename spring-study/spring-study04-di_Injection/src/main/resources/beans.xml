@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="address" class="com.zpchcbd.pojo.Address"/>
+
+    <bean id="student" class="com.zpchcbd.pojo.Student">
+        <property name="name" value="池灵" />
+        <property name="address" ref="address"/>
+        <property name="books">
+            <array>
+                <value>红楼梦</value>
+                <value>水浒传</value>
+                <value>三国演义</value>
+            </array>
+        </property>
+        <property name="hobbies">
+            <list>
+                <value>吃</value>
+                <value>喝</value>
+                <value>嫖</value>
+            </list>
+        </property>
+
+        <property name="card">
+            <map>
+                <entry key="工商" value="1111"/>
+                <entry key="招商" value="2222"/>
+            </map>
+        </property>
+
+        <property name="games">
+            <set>
+                <value>lol</value>
+                <value>csgo</value>
+            </set>
+        </property>
+
+        <property name="wife" value=""/>
+        
+        <property name="info">
+            <props>
+                <prop key="xuehao">183030103</prop>
+                <prop key="gender">1</prop>
+            </props>
+        </property>
+
+    </bean>
+
+    <bean id="user" class="com.zpchcbd.pojo.User" scope="prototype">
+        <property name="name" value="池灵"/>
+    </bean>
+</beans>

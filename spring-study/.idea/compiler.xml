@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-study-09-mybatis" />
+        <module name="spring-study06-appconfig" />
+        <module name="spring-study05-autowired" />
+        <module name="spring-study04-c-p-namespace" />
+        <module name="spring-study03-ioc_how_to_create_object" />
+        <module name="spring-study08-aop" />
+        <module name="spring-study07-proxy" />
+        <module name="spring-study02" />
+        <module name="spring-study01" />
+        <module name="spring-study04-di_Injection" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
