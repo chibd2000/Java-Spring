@@ -9,13 +9,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-study-09-mybatis" />
         <module name="spring-study06-appconfig" />
-        <module name="spring-study05-autowired" />
+        <module name="spring-study-10-transaction" />
         <module name="spring-study04-c-p-namespace" />
         <module name="spring-study03-ioc_how_to_create_object" />
+        <module name="spring-study01" />
         <module name="spring-study08-aop" />
         <module name="spring-study07-proxy" />
         <module name="spring-study02" />
-        <module name="spring-study01" />
+        <module name="spring-study05-autowired" />
+        <module name="spring-study05-annotation-develop" />
         <module name="spring-study04-di_Injection" />
       </profile>
     </annotationProcessing>

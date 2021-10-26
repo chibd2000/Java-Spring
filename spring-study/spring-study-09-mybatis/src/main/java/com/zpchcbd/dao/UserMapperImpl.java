@@ -7,7 +7,7 @@ import org.mybatis.spring.support.SqlSessionDaoSupport;
 import java.util.List;
 
 public class UserMapperImpl implements UserMapper{
-    public SqlSession sqlSession;
+    private SqlSession sqlSession;
 
     public void setSqlSession(SqlSession sqlSession) {
         this.sqlSession = sqlSession;

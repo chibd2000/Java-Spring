@@ -9,8 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring-study06-appconfig</artifactId>
-    <dependencies>
+    <artifactId>spring-study05-annotation-develop</artifactId>
 
-    </dependencies>
+
 </project>

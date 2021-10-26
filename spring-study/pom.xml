@@ -18,6 +18,8 @@
     <module>spring-study08-aop</module>
       <module>spring-study-09-mybatis</module>
       <module>spring-study04-c-p-namespace</module>
+      <module>spring-study-10-transaction</module>
+      <module>spring-study05-annotation-develop</module>
   </modules>
   <packaging>pom</packaging>
 

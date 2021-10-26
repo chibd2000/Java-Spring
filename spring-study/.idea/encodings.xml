@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/spring-study-09-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study-09-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study-10-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study-10-transaction/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study01/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study02/src/main/java" charset="UTF-8" />
@@ -13,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/spring-study04-c-p-namespace/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study04-di_Injection/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study04-di_Injection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study05-annotation-develop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study05-annotation-develop/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study05-autowired/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study05-autowired/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-study06-appconfig/src/main/java" charset="UTF-8" />
